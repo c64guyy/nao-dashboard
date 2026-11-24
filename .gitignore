@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dati generati dalla dashboard
+nao_logs/
+*.csv
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
